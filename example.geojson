@@ -1746,28 +1746,7 @@
         ]	
       }	
     },	
-    {	
-      "type": "Feature",	
-      "properties": {	
-        "NAME": "<b>Gunilla</b>",	
-        "SURNAME": "<b>Svensson</b>",	
-        "MARRIEDN": null,	
-        "YEAR_B": "1956",	
-        "YEAR_D": "---",	
-        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/2005_Svensson_Figure1_portrait_small.jpg\">",	
-        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/2005_Svensson_Figure1_portrait.jpg\" target=\"_blank\">Gunilla Svensson </a>",	
-        "WORKS_NA_2": "<b>Kv Skötaren Apartment Building</b>, 2005",	
-        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/2005_Svensson_Figure2_small.jpg\">",	
-        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/2005_Svensson_Figure2.jpg\" target=\"_blank\">Kv Skötaren Apartment Building, 2005</a>"	
-      },	
-      "geometry": {	
-        "type": "Point",	
-        "coordinates": [	
-          13.2,	
-          55.7	
-        ]	
-      }	
-    },	
+	
     {	
       "type": "Feature",	
       "properties": {	
