@@ -1,0 +1,2212 @@
+{	
+  "type": "FeatureCollection",	
+  "name": "Designers_2",	
+  "crs": {	
+    "type": "name",	
+    "properties": {	
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"	
+    }	
+  },	
+  "features": [	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Sonia</b>",	
+        "SURNAME": "<b>Terk</b>",	
+        "MARRIEDN": "Delaunay",	
+        "YEAR_B": "1885",	
+        "YEAR_D": "1979",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1918_Terk_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1918_Terk_Figure1.jpg\" target=\"_blank\">Sonia Delaunay</a>",	
+        "WORKS_NA_2": "<b>Interiors by Casa Sonia</b>, 1918",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1918_Terk_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1918_Terk_Figure2.jpg\" target=\"_blank\">Interiors by Casa Sonia, 1918</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          33.116667,	
+          49.216667	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Adelgunde (Gunta)</b>",	
+        "SURNAME": "<b>Stölzl</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1897",	
+        "YEAR_D": "1983",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1920_Stolzl_Figure2_Portrait_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1920_Stolzl_Figure2_Portrait.jpg\" target=\"_blank\">Adelgunde (Gunta) Stölzl</a>",	
+        "WORKS_NA_2": "<b>Pillowcase</b>, 1920",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1920_Stolzl_Figure3_small.jpg\">Pillowcase</a>",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1920_Stolzl_Figure3.jpg\" target=\"_blank\">Pillowcase, 1920</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          11.566667,	
+          48.133333	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Helena</b>",	
+        "SURNAME": "<b>Kottler</b>",	
+        "MARRIEDN": "Vurnik",	
+        "YEAR_B": "1882",	
+        "YEAR_D": "1962",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1922_Vurnik_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1922_Vurnik_Figure1.jpg\" target=\"_blank\">Helena Kottler Vurnik</a>",	
+        "WORKS_NA_2": "<b>Decoration of the Cooperative Business Bank</b>, 1922",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1922_Vurnik_figure2_small.JPG\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1922_Vurnik_figure2.JPG\" target=\"_blank\">Decoration of the Cooperative Business Bank, 1922</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          16.364005560837967,	
+          48.201919412285328	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Alma</b>",	
+        "SURNAME": "<b>Buscher</b>",	
+        "MARRIEDN": "Siedhoff",	
+        "YEAR_B": "1899",	
+        "YEAR_D": "1944",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1923_Buscher_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1923_Buscher_Figure1.jpg\" target=\"_blank\">Alma Buscher Siedhoff</a>",	
+        "WORKS_NA_2": "<b>Toy Closet for the House am Horn Children’s Room</b>, 1923",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1923_Buscher_Figure3_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1923_Buscher_Figure3.jpg\" target=\"_blank\">Toy Closet for the House am Horn Children’s Room, 1923</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          7.966667,	
+          50.966667	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Marianne</b>",	
+        "SURNAME": "<b>Liebe</b>",	
+        "MARRIEDN": "Brandt",	
+        "YEAR_B": "1893",	
+        "YEAR_D": "1983",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1924_Liebe_Brandt_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1924_Liebe_Brandt_Figure1.jpg\" target=\"_blank\">Marianne Liebe Brandt</a>",	
+        "WORKS_NA_2": "<b>Ashtray with Cigarette Holder</b>, 1924",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1924_Liebe_Brandt_Figure2_small.JPG\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1924_Liebe_Brandt_Figure2.JPG\" target=\"_blank\">Ashtray with Cigarette Holder, 1924</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          12.916667,	
+          50.833333	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Sylvia</b>",	
+        "SURNAME": "<b>Gatt</b>",	
+        "MARRIEDN": "Stave",	
+        "YEAR_B": "1908",	
+        "YEAR_D": "1994",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1925_Stave_Figure1_portrait_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1925_Stave_Figure1_portrait.jpg\" target=\"_blank\">Sylvia (Gatt) Stave</a>",	
+        "WORKS_NA_2": "</b>Cocktail Shaker</b>, 1925",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1925_Stave_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1925_Stave_Figure2.jpeg.jpg\" target=\"_blank\">Cocktail Shaker, 1925</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          14.816686548684824,	
+          56.883082188643044	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Margarete (Grete)</b>",	
+        "SURNAME": "<b>Lihotzky</b>",	
+        "MARRIEDN": "Schütte",	
+        "YEAR_B": "1897",	
+        "YEAR_D": "2000",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1926_Lihotzky_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1926_Lihotzky_Figure1.jpg\" target=\"_blank\">Margarete (Grete) Lihotzky Schütte</a>",	
+        "WORKS_NA_2": "<b>Frankfurt Kitchen</b>, 1926",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1926_Lihotzky_Figure 2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1926_Lihotzky_Figure 2.jpg\" target=\"_blank\">Frankfurt Kitchen, 1926</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          16.365371294742395,	
+          48.201919412285328	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Elizabeth</b>",	
+        "SURNAME": "<b>Scott</b>",	
+        "MARRIEDN": "Whitworth",	
+        "YEAR_B": "1898",	
+        "YEAR_D": "1972",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1927_Scott_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1927_Scott_Figure1.jpg\" target=\"_blank\">Elizabeth Whitworth Scott</a>",	
+        "WORKS_NA_2": "<b>Shakespeare Memorial Theatre</b>, 1927",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1927_Scott.Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1927_Scott.Figure2.jpg\" target=\"_blank\">Shakespeare Memorial Theatre, 1927</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          -1.88,	
+          50.72	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Kathleen Eileen</b>",	
+        "SURNAME": "<b>Moray</b>",	
+        "MARRIEDN": "Gray",	
+        "YEAR_B": "1878",	
+        "YEAR_D": "1976",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1929_Gray_Figure3_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1929_Gray_Figure3.jpg\" target=\"_blank\">Eileen Gray</a>",	
+        "WORKS_NA_2": "<b>E-1027 Maison en bord de mer</b>, 1929",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1929_Gray_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1929_Gray_Figure1.jpg\" target=\"_blank\">Maison en bord de mer- E-1027. 1929</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          -6.565876,	
+          52.502064	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Ruth Hildegard</b>",	
+        "SURNAME": "<b>Raack</b>",	
+        "MARRIEDN": "Geyer",	
+        "YEAR_B": "1894",	
+        "YEAR_D": "1975",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1931_Hildegard_Figure3_Portrait_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1931_Hildegard_Figure3_Portrait.jpg\" target=\"_blank\">Ruth Hildegard Geyer-Raack</a>",	
+        "WORKS_NA_2": "<b>Lady’s Living Room and Bedroom</b>, 1931",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1931_Hildegard_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1931_Hildegard_Figure1.jpg\" target=\"_blank\">Lady’s Living Room and Bedroom, 1931</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          10.783333,	
+          51.500278	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Aino Maria</b>",	
+        "SURNAME": "<b>Marsio</b>",	
+        "MARRIEDN": "Aalto",	
+        "YEAR_B": "1894",	
+        "YEAR_D": "1949",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1932_Aalto_Figure1_portrait_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1932_Aalto_Figure1_portrait.jpg\" target=\"_blank\">Aino Maria Marsio Aalto</a>",	
+        "WORKS_NA_2": "<b>Glass Tableware</b>, 1932",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1932_Aalto_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1932_Aalto_Figure2.jpg\" target=\"_blank\">Glass Tableware, 1932</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          24.9375,	
+          60.170833	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Maria</b>",	
+        "SURNAME": "<b>Cotescu</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1896",	
+        "YEAR_D": "1980",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1933_MariaCotescu_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1933_MariaCotescu.jpg\" target=\"_blank\">Maria Cotescu </a>",	
+        "WORKS_NA_2": "<b>Grivita Works</b>, 1933",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1933_Cotescu_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1933_Cotescu_Figure1.jpg\" target=\"_blank\">Grivita Works. 1933</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          26.083333,	
+          44.4	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Martta</b>",	
+        "SURNAME": "<b>Martikainen</b>",	
+        "MARRIEDN": "Ypyä",	
+        "YEAR_B": "1904",	
+        "YEAR_D": "1992",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1935_Martikainen-Ypya_Figure3_portrait_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1935_Martikainen-Ypya_Figure3_portrait.jpg\" target=\"_blank\">Martta Martikainen-Ypyä</a>",	
+        "WORKS_NA_2": "<b>Motor Battalion Barracks and Garage Ministry of Defence</b>, 1935",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1935_Martikainen_Ypya_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1935_Martikainen_Ypya_Figure1.jpg\" target=\"_blank\">Motor Battalion Barracks and Garage, 1935</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          27.183333,	
+          63.566667	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Lilly</b>",	
+        "SURNAME": "<b>Reich</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1885",	
+        "YEAR_D": "1947",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1936_Reich_Figure2_Portrait_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1936_Reich_Figure2_Portrait.jpg\" target=\"_blank\">Lilly Reich </a>",	
+        "WORKS_NA_2": "<b>Thonet Small Armchair</b>, 1936",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1936_Reich_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1936_Reich_Figure1.jpg\" target=\"_blank\">Thonet Small Armchair, 1936\n</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          13.396063116381193,	
+          52.523686409967198	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Mary</b>",	
+        "SURNAME": "<b>Crowley</b>",	
+        "MARRIEDN": "Medd",	
+        "YEAR_B": "1907",	
+        "YEAR_D": "2005",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1937_Crowley_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1937_Crowley_Figure1.jpg\" target=\"_blank\">Mary Crowley </a>",	
+        "WORKS_NA_2": "<b>Plan of the Expanding Nursery School</b>, 1937",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1937_Crowley.Figure3_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1937_Crowley.Figure3.jpg\" target=\"_blank\">Plan of the Expanding Nursery School, 1937</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          -1.75206,	
+          53.8	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Susan (Susie)</b>",	
+        "SURNAME": "<b>Cooper</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1902",	
+        "YEAR_D": "1995",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1940_Cooper_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1940_Cooper_Figure1.jpg\" target=\"_blank\">Susie Cooper </a>",	
+        "WORKS_NA_2": "<b>Kestrel Tea Set</b>, 1940",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1940_Cooper_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1940_Cooper_Figure2.jpg\" target=\"_blank\">Kestrel Tea Set, 1940</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          -2.1950455,	
+          53.0558595	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Judith</b>",	
+        "SURNAME": "<b>Ledeboer</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1901",	
+        "YEAR_D": "1990",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1941-Ledeboer_figure2_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1941-Ledeboer_figure2.jpg\" target=\"_blank\">Judith Ledeboer </a>",	
+        "WORKS_NA_2": "<b>Sideboard</b>, 1941",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1941_Ledeboer_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1941_Ledeboer_Figure1.jpg\" target=\"_blank\">Sideboard, 1941</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          6.666667,	
+          52.35	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Juliana (Liane)</b>",	
+        "SURNAME": "<b>Fischer</b>",	
+        "MARRIEDN": "Zimbler",	
+        "YEAR_B": "1892",	
+        "YEAR_D": "1987",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1942_Zimbler_Figure3_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1942_Zimbler_Figure3.jpg\" target=\"_blank\">Liane Fischer Zimbler</a>",	
+        "WORKS_NA_2": "<b>Panzer Residence</b>, 1942",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1942_Zimbler_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1942_Zimbler_Figure1.jpg\" target=\"_blank\">Panzer Residence, 1942</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          17.465833,	
+          49.455	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Greta</b>",	
+        "SURNAME": "<b>Magnusson</b>",	
+        "MARRIEDN": "Grossman",	
+        "YEAR_B": "1906",	
+        "YEAR_D": "1999",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1943_Magnusson_Figure2_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1943_Magnusson_Figure2.jpg\" target=\"_blank\">Greta Magnusson-Grossman </a>",	
+        "WORKS_NA_2": "<b>Interior of a Residence</b>, 1943",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1943_Magnusson_figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1943_Magnusson_figure1.jpg\" target=\"_blank\">Interior of a Residence, 1943</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          12.700849834726609,	
+          56.05	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Rita</b>",	
+        "SURNAME": "<b>Fernández</b>",	
+        "MARRIEDN": "Queimadelos",	
+        "YEAR_B": "1911",	
+        "YEAR_D": "2008",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1944_Queimadelos_Figure2_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1944_Queimadelos_Figure2.jpg\" target=\"_blank\">Rita Fernández Queimadelos </a>",	
+        "WORKS_NA_2": "<b>Patronato de Protección de la Mujer Restoration</b>, 1944",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1944_Queimadelos.Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1944_Queimadelos.Figure1.jpg\" target=\"_blank\">Restoration of the Patronato de Proteccin de la Mujer, 1944</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          -8.648053,	
+          42.433619	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Luisa</b>",	
+        "SURNAME": "<b>Aiani</b>",	
+        "MARRIEDN": "Galfetti Parisi",	
+        "YEAR_B": "1920",	
+        "YEAR_D": "1990",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1946_LuisaAiani_Fiture3_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1946_LuisaAiani_Fiture3.jpg\" target=\"_blank\">Luisa Aiani Galfetti Parisi</a>",	
+        "WORKS_NA_2": "<b>Sofa</b>, 1946",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1946_aiani_fig.1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1946_aiani_fig.1.png\" target=\"_blank\">Sofa, 1946</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          9.133333,	
+          45.733333	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Elsi Naemi</b>",	
+        "SURNAME": "<b>Borg</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1893",	
+        "YEAR_D": "1958",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1948_Borg_Figure4_portrait_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1948_Borg_Figure4_portrait.jpg\" target=\"_blank\">Elsi Naemi Borg Nastola</a>",	
+        "WORKS_NA_2": "<b>Lastenlinna Children’s Hospital</b>, 1948",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1948_Borg_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1948_Borg_Figure1.jpg\" target=\"_blank\">Lastenlinna Children?s Hospital - Mannerheim Society for the Protection of Children, 1948</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          25.933333,	
+          60.95	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Anneliese (Anni)</b>",	
+        "SURNAME": "<b>Fleischmann</b>",	
+        "MARRIEDN": "Albers",	
+        "YEAR_B": "1899",	
+        "YEAR_D": "1994",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1949_Albers_Figure2_Portrait_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1949_Albers_Figure2_Portrait.jpg\" target=\"_blank\">Anni (Anneliese) Fleischmann Albers</a>",	
+        "WORKS_NA_2": "<b>Free-Hanging Room Divider</b>, 1949",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1949_Albers_Figure3_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1949_Albers_Figure3.jpg\" target=\"_blank\">Free-Hanging Room Divider, 1949 </a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          13.399751280940231,	
+          52.52071208370991	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Elena</b>",	
+        "SURNAME": "<b>Luzzatto</b>",	
+        "MARRIEDN": "Valentini",	
+        "YEAR_B": "1900",	
+        "YEAR_D": "1983",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1950_ElenaLuzzatto-v2_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1950_ElenaLuzzatto-v2.jpg\" target=\"_blank\">Elena Luzzatto Valentini</a>",	
+        "WORKS_NA_2": "<b>Primavalle Market. 1950</b>, 1950",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1950_Luzzatto_Figure3_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1950_Luzzatto_Figure3.jpg\" target=\"_blank\">Primavalle Market, 1950</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          13.516667,	
+          43.616667	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Louise (Lux)</b>",	
+        "SURNAME": "<b>Guyer</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1894",	
+        "YEAR_D": "1955",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1928_Guyer_Figure_Portrait_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1928_Guyer_Figure_Portrait.jpg\" target=\"_blank\">Lux (Louise) Guyer </a>",	
+        "WORKS_NA_2": "<b>Masterplan of SAFFA Exhibition</b>, 1928",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1928_Guyer_Figure_2a_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1928_Guyer_Figure_2a.jpg\" target=\"_blank\">Masterplan of SAFFA Exhibition, 1928</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          8.546516469087464,	
+          47.38180037199708	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Sonja</b>",	
+        "SURNAME": "<b>Lapajne</b>",	
+        "MARRIEDN": "Oblak",	
+        "YEAR_B": "1906",	
+        "YEAR_D": "1995",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1934_Lapajne_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1934_Lapajne_Figure1.jpg\" target=\"_blank\">Sonja Lapajne-Oblak </a>",	
+        "WORKS_NA_2": "<b>Gimnazija Bežigrad High School</b>, 1950",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1934_Lapajne_fig.2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1934_Lapajne_fig.2.jpg\" target=\"_blank\">Gimnazija Bežigrad High School, 1950</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          14.520740931382845,	
+          46.0555	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Alexandra</b>",	
+        "SURNAME": "<b>Paschalidou</b>",	
+        "MARRIEDN": "Moreti",	
+        "YEAR_B": "1912",	
+        "YEAR_D": "2010",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1939_Paschalidou-Moreti_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1939_Paschalidou-Moreti_Figure1.png\" target=\"_blank\">Alexandra Paschalidou-Moreti </a>",	
+        "WORKS_NA_2": "<b>Greek Pavilion New York World’s Fair</b>, 1939",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1939_Paschalidou-Moreti_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1939_Paschalidou-Moreti_Figure2.jpg\" target=\"_blank\">Greek Pavilion New York World's Fair, 1939</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          28.966667,	
+          41.016667	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Antonia</b>",	
+        "SURNAME": "<b>Campi</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1921",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1951_Campi_Figure3_portrait_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1951_Campi_Figure3_portrait.jpg\" target=\"_blank\">Antonia Campi </a>",	
+        "WORKS_NA_2": "<b>Spaziale (C33) Umbrella Stand</b>, 1951",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1951_Campi_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1951_Campi_Figure2.jpg\" target=\"_blank\">Spaziale (C33) Umbrella Stand, 1951</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          9.872705,	
+          46.168428	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Franca</b>",	
+        "SURNAME": "<b>Helg</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1920",	
+        "YEAR_D": "1989",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1952_Helg_Figure3_portrait_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1952_Helg_Figure3_portrait.jpg\" target=\"_blank\">Franca Helg </a>",	
+        "WORKS_NA_2": "<b>San Lorenzo Treasure Museum</b>, 1952",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1952_Helg_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1952_Helg_Figure1.jpg\" target=\"_blank\">San Lorenzo Treasure Museum, 1952</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          9.203041343240255,	
+          45.473213557058685	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Jane</b>",	
+        "SURNAME": "<b>Drew</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1911",	
+        "YEAR_D": "1996",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1953_Drew_Figure2_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1953_Drew_Figure2.jpg\" target=\"_blank\">Jane Drew </a>",	
+        "WORKS_NA_2": "<b>University Of Ibadan</b>, 1953",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1953_Drew_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1953_Drew_Figure1.jpg\" target=\"_blank\">University Of Ibadan, 1953</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          -0.127294,	
+          51.4008369	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Tamara</b>",	
+        "SURNAME": "<b>Davydovna</b>",	
+        "MARRIEDN": "Katsenelenbogen",	
+        "YEAR_B": "1894",	
+        "YEAR_D": "1976",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1954_Katselenbogen_Figure3_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1954_Katselenbogen_Figure3.jpg\" target=\"_blank\">Tamara Davydovna Katsenelenbogen</a>",	
+        "WORKS_NA_2": "<b>New Sochi Health Resort / Sanatorium</b>, 1954",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1954_Katselenbogen_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1954_Katselenbogen_Figure2.jpg\" target=\"_blank\">New Sochi Health Resort/Sanatorium, 1954</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          26.533333,	
+          55.883333	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Stefania</b>",	
+        "SURNAME": "<b>Filo</b>",	
+        "MARRIEDN": "Speziale",	
+        "YEAR_B": "1905",	
+        "YEAR_D": "1988",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1955_StefaniaFiloSpeziale-v2_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1955_StefaniaFiloSpeziale-v2.jpg\" target=\"_blank\">MoMoWo</a>",	
+        "WORKS_NA_2": "<b>Cattolica Assicurazioni Skyscraper</b>, 1955",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1955_Filo_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1955_Filo_Figure2.jpg\" target=\"_blank\">Cattolica Assicurazioni Skyscraper (now: NH Hotel), 1955</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          14.25,	
+          40.833333	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Alison Margaret</b>",	
+        "SURNAME": "<b>Gill</b>",	
+        "MARRIEDN": "Smithson",	
+        "YEAR_B": "1928",	
+        "YEAR_D": "1993",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1956_Smithson_Figure3_Portrait_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1956_Smithson_Figure3_Portrait.jpg\" target=\"_blank\">Alison Smithson </a>",	
+        "WORKS_NA_2": "<b>House of the Future</b>,1956",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1956_Smithson_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1956_Smithson_Figure1.jpg\" target=\"_blank\">House of the Future,1956</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          -1.50203509581359,	
+          53.364310897302531	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Lina</b>",	
+        "SURNAME": "<b>Bo</b>",	
+        "MARRIEDN": "Bardi",	
+        "YEAR_B": "1914",	
+        "YEAR_D": "1992",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1957_Bo_Bardi_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1957_Bo_Bardi_Figure1.jpg\" target=\"_blank\">Lina Bo Bardi</a>",	
+        "WORKS_NA_2": "<b>MASP São Paulo Museum of Art</b>, 1968",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1957_Bo_Bardi_Figure3_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1957_Bo_Bardi_Figure3.jpg\" target=\"_blank\">MASP - The So Paulo Museum of Art, 1957</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          12.48181189845965,	
+          41.897886507701749	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Annemarie</b>",	
+        "SURNAME": "<b>Constam</b>",	
+        "MARRIEDN": "Hubacher",	
+        "YEAR_B": "1921",	
+        "YEAR_D": "2012",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1958_Hubacher_Figure3_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1958_Hubacher_Figure3.jpg\" target=\"_blank\">Annemarie Hubacher-Constam </a>",	
+        "WORKS_NA_2": "<b>SAFFA</b>, 1958",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1958_Hubacher_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1958_Hubacher_Figure1.jpg\" target=\"_blank\">SAFFA - Swiss Women?s Work Exhibition, 1958</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          8.549600250551022,	
+          47.381857479061217	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Nanna</b>",	
+        "SURNAME": "<b>Hauberg</b>",	
+        "MARRIEDN": "Ditzel",	
+        "YEAR_B": "1923",	
+        "YEAR_D": "2005",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1959_Ditzel_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1959_Ditzel_Figure1.jpg\" target=\"_blank\">Nanna Ditzel </a>",	
+        "WORKS_NA_2": "<b>Hanging Egg Chair</b>, 1959",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1959_Ditzel_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1959_Ditzel_Figure2.jpg\" target=\"_blank\">Hanging Egg Chair, 1959</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          12.560350334182042,	
+          55.680499452995086	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Nataša</b>",	
+        "SURNAME": "<b>Štupar</b>",	
+        "MARRIEDN": "Šumi",	
+        "YEAR_B": "1927",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1962_Stupa-Sumi_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1962_Stupa-Sumi_Figure1.tif\" target=\"_blank\">Nataša Štupar-Šumi </a>",	
+        "WORKS_NA_2": "<b>Stupa Sumi</b>, 1962",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1962_Stupa-Sumi_Figure 2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1962_Stupa-Sumi_Figure 2.tif\" target=\"_blank\">Rihemberk castle reconstruction, 1962</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          14.5083,	
+          46.0555	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Nives</b>",	
+        "SURNAME": "<b>Kalin</b>",	
+        "MARRIEDN": "Vehovar",	
+        "YEAR_B": "1932",	
+        "YEAR_D": "2007",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1963_Kalin_Figure4_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1963_Kalin_Figure4.jpg\" target=\"_blank\">Nives Kalin </a>",	
+        "WORKS_NA_2": "<b>NKVFV Series of Wood Veneer Pendant Lights</b>, 1963",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1963_Kalin_Figure3_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1963_Kalin_Figure3.jpg\" target=\"_blank\">NKVFV Series of Wood Veneer Pendant Lights\n, 1963</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          14.5083,	
+          46.0555	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Ivanka</b>",	
+        "SURNAME": "<b>Raspopovic</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1930",	
+        "YEAR_D": "2015",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1965_Raspopovic_Figure3a_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1965_Raspopovic_Figure3a.jpg\" target=\"_blank\">Ivanka Raspopovic </a>",	
+        "WORKS_NA_2": "<b>Museum of Contemporary Art</b>, 1965",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1965_Raspopovic_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1965_Raspopovic_Figure1.jpg\" target=\"_blank\">Museum of Contemporary Art, 1965</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          20.465518387896257,	
+          44.820591909004683	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Maria Helena</b>",	
+        "SURNAME": "<b>Matos</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1924",	
+        "YEAR_D": "2015",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1969_Matos_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1969_Matos_Figure1.jpg\" target=\"_blank\">Maria Helena Matos</a>",	
+        "WORKS_NA_2": "<b>Japão Service Jar Bowl and Plate</b>, 1969",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1969_Matos_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1969_Matos_Figure2.png\" target=\"_blank\">Japão Service Jar, Bowl and Plate, 1969</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          -9.14683249570888,	
+          38.726113601991059	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Nanda</b>",	
+        "SURNAME": "<b>Vigo</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1936",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1970_Vigo_Figure3_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1970_Vigo_Figure3.jpg\" target=\"_blank\">Nanda Vigo </a>",	
+        "WORKS_NA_2": "<b>Golden Gate Floor Lamp</b>, 1970",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1970_Vigo_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1970_Vigo_Figure2.jpg\" target=\"_blank\">Golden Gate Floor Lamp, 1970</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          9.203120751635506,	
+          45.470672488410635	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>M. Cristina (Cini)</b>",	
+        "SURNAME": "<b>Mariani</b>",	
+        "MARRIEDN": "Dameno Boeri",	
+        "YEAR_B": "1924",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1971_Boeri_Figure1_Portrait_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1971_Boeri_Figure1_Portrait.jpg\" target=\"_blank\">Maria Cristina (Cini) Mariani Dameno Boeri</a>",	
+        "WORKS_NA_2": "<b>Serpentone Giant Snake Sofa</b>, 1971",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1971_Boeri_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1971_Boeri_Figure2.jpg\" target=\"_blank\">Serpentone Giant Snake Sofa, 1971</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          9.204311877564281,	
+          45.471863614339398	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Ljiljana</b>",	
+        "SURNAME": "<b>Vucovic</b>",	
+        "MARRIEDN": "Bakic",	
+        "YEAR_B": "1939",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1973_Bakic_Figure5_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1973_Bakic_Figure5.jpg\" target=\"_blank\">Ljiljana Vucovic Bakic</a>",	
+        "WORKS_NA_2": "<b>Pioneer Sports Hall</b>, 1973",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1973_Bakic_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1973_Bakic_Figure2.jpg\" target=\"_blank\">Pioneer Sports Hall, 1939</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          20.466562115706232,	
+          44.820591909004683	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Ursulina</b>",	
+        "SURNAME": "<b>Witte</b>",	
+        "MARRIEDN": "Schüler",	
+        "YEAR_B": "1933",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1976_witte-schuler_Figure3_portrait_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1976_witte-schuler_Figure3_portrait.jpg\" target=\"_blank\">Ursulina Schüler-Witte </a>",	
+        "WORKS_NA_2": "<b>Tower Restaurant Steglitz</b>, 1976",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1976_witte-schuler_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1976_witte-schuler_Figure1.jpg\" target=\"_blank\">Tower Restaurant Steglitz, 1976</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          13.403127837846226,	
+          52.523621252605672	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Teresa</b>",	
+        "SURNAME": "<b>Nunes da Ponte</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1955",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1982_NunesDaPonte_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1982_NunesDaPonte_Figure1.jpg\" target=\"_blank\">Teresa Nunes da Ponte</a>",	
+        "WORKS_NA_2": "<b>Toca da Areia Residential Complex</b>, 1982",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1982_NunesDaPonte_Figure3_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1982_NunesDaPonte_Figure3.jpg\" target=\"_blank\">?Toca da Areia? residential complex, 1982</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          -9.148175858565041,	
+          38.724635902849279	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Margaret</b>",	
+        "SURNAME": "<b>Kropholler</b>",	
+        "MARRIEDN": "Staal",	
+        "YEAR_B": "1891",	
+        "YEAR_D": "1966",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1919_Kropholler_Figure2_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1919_Kropholler_Figure2.jpg\" target=\"_blank\">Margaret Kropholler </a>",	
+        "WORKS_NA_2": "<b>Atelier Roland Holst</b>, 1919",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1919_Kropholler_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1919_Kropholler_Figure1.jpg\" target=\"_blank\">Atelier Roland Holst, 1919</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          4.629330268516743,	
+          52.380421459827261	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Maria José</b>",	
+        "SURNAME": "<b>Marques da Silva</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1914",	
+        "YEAR_D": "1996",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1945_MarquesDaSilva_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1945_MarquesDaSilva_Figure1.jpg\" target=\"_blank\">Maria José Marques da Silva</a>",	
+        "WORKS_NA_2": "<b>Palácio do Comércio</b>, 1945",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1945_MarquesDaSilva_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1945_MarquesDaSilva_Figure2.jpg\" target=\"_blank\">Palcio do Comércio, 1945</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          -8.633333,	
+          41.15	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Eva</b>",	
+        "SURNAME": "<b>Ditsleven</b>",	
+        "MARRIEDN": "Koppel",	
+        "YEAR_B": "1916",	
+        "YEAR_D": "2006",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1947_Koppel_Figure2_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1947_Koppel_Figure2.jpg\" target=\"_blank\">Eva Ditsleven Koppel</a>",	
+        "WORKS_NA_2": "<b>Beech Wingback Chair</b>, 1947",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1947_Koppel_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1947_Koppel_Figure1..jpg\" target=\"_blank\">Beech Wingback Chair, 1947</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          12.562747771629494,	
+          55.680504035867209	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Teresa</b>",	
+        "SURNAME": "<b>Kruszewska</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1927",	
+        "YEAR_D": "2014",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1961_Kruszewska_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1961_Kruszewska_Figure1.jpg\" target=\"_blank\">Teresa Kruszewska </a>",	
+        "WORKS_NA_2": "<b>Reversible Child’s Armchair</b>, 1961",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1961_Kruszewska_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1961_Kruszewska_Figure2.jpg\" target=\"_blank\">Reversible Child’s Armchair, 1961</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          21.008433,	
+          52.2323	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Janine</b>",	
+        "SURNAME": "<b>Abraham</b>",	
+        "MARRIEDN": "Rol",	
+        "YEAR_B": "1929",	
+        "YEAR_D": "2005",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1964_Abraham_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1964_Abraham_Figure1.jpg\" target=\"_blank\">Janine ABRAHAM </a>",	
+        "WORKS_NA_2": "<b>Summer Home</b>, 1964",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1964_Abraham_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1964_Abraham_Figure2.jpg\" target=\"_blank\">Summer Home, 1964</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          2.323732339979526,	
+          48.860608914184802	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Anna</b>",	
+        "SURNAME": "<b>Ferrieri</b>",	
+        "MARRIEDN": "Castelli",	
+        "YEAR_B": "1920",	
+        "YEAR_D": "2006",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1967_Castelli_Figure1_portrait-v2_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1967_Castelli_Figure1_portrait-v2.jpg\" target=\"_blank\">Anna Ferrieri Castelli</a>",	
+        "WORKS_NA_2": "<b>Componibili Modular System</b>, 1967",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1967_Castelli1972_Figure 3_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1967_Castelli1972_Figure 3.jpg\" target=\"_blank\">Componibili Modular System, 1967</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          9.201731104718604,	
+          45.471823910141779	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Sigrid</b>",	
+        "SURNAME": "<b>Zschach</b>",	
+        "MARRIEDN": "Kressmann Losito",	
+        "YEAR_B": "1929",	
+        "YEAR_D": "1990",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1974_Kressmann_Figure2_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1974_Kressmann_Figure2.jpg\" target=\"_blank\">Sigrid Kressmann-Zschach-Losito </a>",	
+        "WORKS_NA_2": "<b>Steglitzer Kreisel</b>, 1974",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1974_Kressmann_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1974_Kressmann_Figure1.jpg\" target=\"_blank\">Steglitzer Kreisel, 1974. Berlin</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          12.383333,	
+          51.333333	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Charlotte</b>",	
+        "SURNAME": "<b>Perriand</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1903",	
+        "YEAR_D": "1999",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1975_Perriand_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1975_Perriand_Figure1.jpg\" target=\"_blank\">Charlotte Perriand </a>",	
+        "WORKS_NA_2": "<b>Bloc Cuisine Les Arcs</b>, 1975",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1975_Perriand_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1975_Perriand_Figure3.jpg\" target=\"_blank\">Bloc Cuisine Les Arcs, 1975</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          2.33142812844731,	
+          48.867372880570073	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Nel</b>",	
+        "SURNAME": "<b>Verschuuren</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1943",	
+        "YEAR_D": "2016",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1978_Verschuuren_Figure2_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1978_Verschuuren_Figure2.jpg\" target=\"_blank\">Nel Verschuuren </a>",	
+        "WORKS_NA_2": "<b>Murtala Muhammed Airport Seating Unit </b>, 1978",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1978_Verschuuren_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1978_Verschuuren_Figure1.jpg\" target=\"_blank\">Murtala Muhammed Airport Seating Unit, 1978</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          5.459166,	
+          51.35	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Hildegard</b>",	
+        "SURNAME": "<b>Auf</b>",	
+        "MARRIEDN": "Franic",	
+        "YEAR_B": "1941",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1979_Auf_Franic_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1979_Auf_Franic_Figure1.jpg\" target=\"_blank\">Hildegard Auf Franic</a>",	
+        "WORKS_NA_2": "<b>Pavilion V</b>, 1979",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1979_Auf Franic_Figure5_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1979_Auf Franic_Figure5.jpg\" target=\"_blank\">Faculty of Agriculture. Pavilion V. Sveto?imunska cesta 25. 1779.Zagreb (Croatia)</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          15.966667,	
+          45.8	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Simone</b>",	
+        "SURNAME": "<b>Hoa</b>",	
+        "MARRIEDN": "Guillissen",	
+        "YEAR_B": "1916",	
+        "YEAR_D": "1996",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1980_Guillissen-Hoa_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1980_Guillissen-Hoa_Figure1.jpg\" target=\"_blank\">Simone Hoa Guillissen-Hoa</a>",	
+        "WORKS_NA_2": "<b>Community Arts Centre</b>, 1980",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1980_Guillissen-Hoa_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1980_Guillissen-Hoa_Figure2.jpg\" target=\"_blank\">Community Arts Center. 1980. Tournai (Belgium)</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          116.383333,	
+          39.916667	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Ol'ga</b>",	
+        "SURNAME": "<b>Škvarková</b>",	
+        "MARRIEDN": "Ondreicková",	
+        "YEAR_B": "1935",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1983_Ondreickova_Figure4_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1983_Ondreickova_Figure4.jpg\" target=\"_blank\">Olga Škvarková Ondreicková</a>",	
+        "WORKS_NA_2": "<b>District Post Office</b>, 1983",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1983_Ondreickova_Figure5_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1983_Ondreickova_Figure5.jpg\" target=\"_blank\">District post office. 1985. Prague (Czech Republic)</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          17.1,	
+          48.133333	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Viera</b>",	
+        "SURNAME": "<b>Štarková</b>",	
+        "MARRIEDN": "Mecková",	
+        "YEAR_B": "1933",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1984_Meckova_Figure4_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1984_Meckova_Figure4.jpg\" target=\"_blank\">Viera Štarková Mecková</a>",	
+        "WORKS_NA_2": "<b>Communist Party Regional Committee Offices</b>, 1988",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1984_Meckova_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1984_Meckova_Figure1.jpg\" target=\"_blank\">Communist Party Regional Committee offices. 1988. ?ilina (Slovakia)</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          18.863333,	
+          48.863611	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Nathalie</b>",	
+        "SURNAME": "<b>Du Pasquier</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1957",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1985_DuPasquier_Figure3_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1985_DuPasquier_Figure3.jpg\" target=\"_blank\">Nathalie Du Pasquier </a>",	
+        "WORKS_NA_2": "<b>Emerald Sideboard</b>, 1985",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1985_Du Pasquier_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1985_Du Pasquier_Figure1..jpg\" target=\"_blank\">Emerald Sideboard, 1985</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          -0.596896368235753,	
+          44.851267160160745	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Gae</b>",	
+        "SURNAME": "<b>Aulenti</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1927",	
+        "YEAR_D": "2012",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1986_Aulenti_Figure1_portrait_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1986_Aulenti_Figure1_portrait.jpg\" target=\"_blank\">Gae Aulenti </a>",	
+        "WORKS_NA_2": "<b>Orsay Museum</b>, 1986",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1986_Aulenti_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1986_Aulenti_Figure2.jpg\" target=\"_blank\">D?Orsay Museum . 1986. Paris (France)</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          13.083333,	
+          45.8	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Verena</b>",	
+        "SURNAME": "<b>Dietrich</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1941",	
+        "YEAR_D": "2004",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1988_Dietrich_Figure1_portrait_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1988_Dietrich_Figure1_portrait.jpg\" target=\"_blank\">Verena Dietrich </a>",	
+        "WORKS_NA_2": "<b>Höhenberg Sportspark Spectator Tribune</b>, 1988",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1988_Dietrich_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1988_Dietrich_Figure2.jpg\" target=\"_blank\">Hhenberg Sportspark spectator tribune. 1988. Cologne (Germany)</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          8.5,	
+          50.566667	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Andrée Christine</b>",	
+        "SURNAME": "<b>Aynard</b>",	
+        "MARRIEDN": "Putman",	
+        "YEAR_B": "1925",	
+        "YEAR_D": "2003",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1989_Putman_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1989_Putman_Figure1.jpg\" target=\"_blank\">Andrée Christine Aynard Putman</a>",	
+        "WORKS_NA_2": "<b>Human Rights Foundation Library</b>, 1989",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1989_Putman_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1989_Putman_Figure2.jpg\" target=\"_blank\">Commission des Droits de l?Homme. Arche de la Dfense. 1989. Paris (France)</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          2.330218677504248,	
+          48.86853753703376	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Edith</b>",	
+        "SURNAME": "<b>Girard</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1949",	
+        "YEAR_D": "2005",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1990_Girard_Credits_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1990_Girard_Credits_Figure1.jpg\" target=\"_blank\">Edith Girard </a>",	
+        "WORKS_NA_2": "<b>Residential Building and Dunois Theatre</b>, 1990",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1990_Girard_Credits_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1990_Girard_Credits_Figure2.jpg\" target=\"_blank\">Immeuble de logements et thtre 108-118 rue du Chevaleret. 1990. Paris (France)</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          2.332727168349118,	
+          48.86853753703376	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Patricia</b>",	
+        "SURNAME": "<b>Leboucq</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1957",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1992_Leboucq_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1992_Leboucq_Figure1.jpg\" target=\"_blank\">Patricia Leboucq </a>",	
+        "WORKS_NA_2": "<b>Residential Building</b>, 1992",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1992_Leboucq_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1992_Leboucq_Figure2.jpg\" target=\"_blank\">Immeubles de logements. 67. rue du thtre Paris 15. 1992. Paris (France)</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          2.328032609999303,	
+          48.86056411970543	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Zaha</b>",	
+        "SURNAME": "<b>Hadid</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1950",	
+        "YEAR_D": "2016",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1993_Hadid_Figure1_portrait_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1993_Hadid_Figure1_portrait.jpg\" target=\"_blank\">Zaha Hadid </a>",	
+        "WORKS_NA_2": "<b>Vitra Fire Station</b>, 1993",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1993_Hadid_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1993_Hadid_Figure2.jpg\" target=\"_blank\">Vitra Fire Station. Vitra Capus. 1993. Weil am Rhein (Germany)</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          44.393670253355459,	
+          33.335766068164602	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Marianne</b>",	
+        "SURNAME": "<b>Dahlbäck</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1943",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/MoMoWo_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/MoMoWo.jpg\" target=\"_blank\">Marianne Dahlbäck </a>",	
+        "WORKS_NA_2": "<b>Vasa Museum</b>, 1981",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1981_Dahlbaeck_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1981_Dahlbaeck_Figure1.jpg\" target=\"_blank\">VASA MUSEUM (orig. VASAMUSEET). 1981. Stockholm (Sweden)</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          17.166667,	
+          60.683333	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Margarete (Grete)</b>",	
+        "SURNAME": "<b>Heymann</b>",	
+        "MARRIEDN": "Marks Löbenstein",	
+        "YEAR_B": "1899",	
+        "YEAR_D": "1990",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1930_Heymann_Figure3_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1930_Heymann_Figure3.jpg\" target=\"_blank\">Margarete Löbenstein and Marks Heymann</a>",	
+        "WORKS_NA_2": "<b>Tea Set</b>, 1930",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1930_Heymann_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1930_Heymann_Figure1.jpg\" target=\"_blank\">Tea Set, 1930</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          6.947991446592078,	
+          50.93166400210859	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Maria Teresa</b>",	
+        "SURNAME": "<b>Parpagliolo</b>",	
+        "MARRIEDN": "Shephard",	
+        "YEAR_B": "1903",	
+        "YEAR_D": "1974",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1966_Parpagliolo_Figure1-Portrait_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1966_Parpagliolo_Figure1-Portrait.jpg\" target=\"_blank\">Maria Theresa Parpagliolo Shephard</a>",	
+        "WORKS_NA_2": "<b>Hall Garden</b>, 1966",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1966_Parpagliolo_Figure3_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1966_Parpagliolo_Figure3.jpg\" target=\"_blank\">RAI?s Headquarter. 1966. Rome (Italy)</a>\n"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          12.480806364203367,	
+          41.897866791343787	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Jadwiga</b>",	
+        "SURNAME": "<b>Grabowska</b>",	
+        "MARRIEDN": "Hawrylak",	
+        "YEAR_B": "1920",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1968_Grabowska-Hawrylak_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1968_Grabowska-Hawrylak_Figure1.jpg \"target=_blank\">Jadwiga Grabowska-Hawrylak </a>",	
+        "WORKS_NA_2": "<b>Sedesowce - Manhattan Housing Units</b>, 1968",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1968_Grabowska-Hawrylak_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1968_Grabowska-Hawrylak_Figure2.jpg\" target=\"_blank\">\"Sedesowce\" - ?Manhattan? Housing units. 1968. Wroc?aw (Poland)</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          22.681667,	
+          49.791944	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Amanda</b>",	
+        "SURNAME": "<b>Levete</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1955",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1994_Levete_Figure2_Portrait_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1994_Levete_Figure2_Portrait.jpg\" target=\"_blank\">Amanda Levete </a>",	
+        "WORKS_NA_2": "<b>Docklands Floating Bridge</b>, 1994",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1994_Levete_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1994_Levete_Figure1.jpg\" target=\"_blank\">Docklands Floating Bridge. 1994. London (UK)</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          -3.5784,	
+          51.5072	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Fiona</b>",	
+        "SURNAME": "<b>Raby</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1963",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1995_Raby_Figure2_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1995_Raby_Figure2.jpg\" target=\"_blank\">Fiona Raby </a>",	
+        "WORKS_NA_2": "<b>Faraday Chair</b>, 1995",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1995_Raby_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1995_Raby_Figure1v1.jpg\" target=\"_blank\">Faraday Chair, 1995</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          103.853126242867219,	
+          1.29494846845656	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Laura</b>",	
+        "SURNAME": "<b>Carducci</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1960",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1996_Carducci_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1996_Carducci_Figure1.jpg\" target=\"_blank\">Laura Carducci </a>",	
+        "WORKS_NA_2": "<b>Jean de la Fontaine Nursery School</b>, 1996",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1996_Carducci_Figure3_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1996_Carducci_Figure3.jpg\" target=\"_blank\">Ecole maternelle Jean de la Fontaine. 1996. Mitry- Mory. Seine-et-Marne (France)</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          6.15,	
+          46.2	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Judith</b>",	
+        "SURNAME": "<b>Rataitz</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1960",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1997_Rataitz_Fig1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1997_Rataitz_Fig1.jpg\" target=\"_blank\">Judith Rataitz </a>",	
+        "WORKS_NA_2": "<b>Cold Dish Table Set: Cutting Board and Brunch Containers</b>, 1997",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1997_Rataitz_Fig.3_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1997_Rataitz_Fig.3.jpg\" target=\"_blank\">Cold Dish Table Set: Cutting Board and Brunch Containers, 1997</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          16.364674491729932,	
+          48.202644087418292	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Catherine</b>",	
+        "SURNAME": "<b>Furet</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1954",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1998_Furet_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1998_Furet_Figure1.jpg\" target=\"_blank\">Catherine Furet </a>",	
+        "WORKS_NA_2": "<b>Residential Buildings</b>, 1998",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1998_Furet_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1998_Furet_Figure2.jpg\" target=\"_blank\">Immeuble de logements. 1998. 70-78. rue Leblanc. 75015 Paris (France)</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          7.350004566541426,	
+          47.750404709338987	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Irena</b>",	
+        "SURNAME": "<b>Bajerska</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1943",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1999_Bajerska_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1999_Bajerska_Figure1.jpg\" target=\"_blank\">Irena Bajerska </a>",	
+        "WORKS_NA_2": "<b>Rooftop of the University Library</b>, 1999",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1999_Bajerska_Figure4_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1999_Bajerska_Figure4.jpg\" target=\"_blank\">University library rooftop. 1999. Warsaw (Poland)</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          18.7491778,	
+          49.718801	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Benedetta</b>",	
+        "SURNAME": "<b>Tagliabue</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1963",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/2000_Tagliabue_Figure3_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/2000_Tagliabue_Figure3.jpg\" target=\"_blank\">Benedetta Tagliabue </a>",	
+        "WORKS_NA_2": "<b>Hamburg School of Music</b>, 2000",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/2000_Tagliabue_Fig1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/2000_Tagliabue_Fig1.jpg\" target=\"_blank\">Hamburg School of Music. 2000. Hamburg (Germany)</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          9.20224725928774,	
+          45.470950417794008	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Odile</b>",	
+        "SURNAME": "<b>Decq</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1955",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/2001_Decq_Figure1_portrait_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/2001_Decq_Figure1_portrait.jpg\" target=\"_blank\">Odile Decq </a>",	
+        "WORKS_NA_2": "<b>MACRO Rome’s Museum of Contemporary Art</b>, 2001",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/2001_Decq_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/2001_Decq_Figure2.jpg\" target=\"_blank\">Rome?s Museum of Contemporary Art ? MACRO. 2001. Rome (Italy)</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          5.933333,	
+          45.25	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Patricia</b>",	
+        "SURNAME": "<b>Urquiola</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1961",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/2002_Urquiola_Figure2_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/2002_Urquiola_Figure2.jpg\" target=\"_blank\">Patricia Urquiola </a>",	
+        "WORKS_NA_2": "<b>Fjord Chair</b>, 2002",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/2002_Urquiola_Figure 1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/2002_Urquiola_Figure 1.jpg\" target=\"_blank\">Fjord Chair, 2002</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          -5.830068233876541,	
+          43.350434926670566	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Mary</b>",	
+        "SURNAME": "<b>Reynolds</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1974",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/2004_Reynolds_Figure4_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/2004_Reynolds_Figure4.jpg\" target=\"_blank\">Mary Reynolds </a>",	
+        "WORKS_NA_2": "<b>Brigit’s Garden</b>, 2004",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/2004_Reynolds_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/2004_Reynolds_Figure1.jpg\" target=\"_blank\">Brigit's Garden, 2004</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          -8.0,	
+          53.416667	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Gunilla</b>",	
+        "SURNAME": "<b>Svensson</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1956",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/2005_Svensson_Figure1_portrait_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/2005_Svensson_Figure1_portrait.jpg\" target=\"_blank\">Gunilla Svensson </a>",	
+        "WORKS_NA_2": "<b>Kv Skötaren Apartment Building</b>, 2005",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/2005_Svensson_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/2005_Svensson_Figure2.jpg\" target=\"_blank\">Kv Skötaren Apartment Building, 2005</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          13.2,	
+          55.7	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Blanca</b>",	
+        "SURNAME": "<b>Lleó</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1959",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/2006_Lleo_Figure3_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/2006_Lleo_Figure3.jpg\" target=\"_blank\">Blanca Lleó </a>",	
+        "WORKS_NA_2": "<b>97 Houses for Young People</b>, 2006",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/2006_Lleo_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/2006_Lleo_Figure1.jpg\" target=\"_blank\">97 houses for young people, 2006</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          -3.685708090049557,	
+          40.401269284330979	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Manuelle</b>",	
+        "SURNAME": "<b>Gautrand</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1961",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/2007_Gautrand_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/2007_Gautrand_Figure1.jpg\" target=\"_blank\">Manuelle Gautrand </a>",	
+        "WORKS_NA_2": "<b>Citroën Showroom</b>, 2007",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/2007_Gautrand_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/2007_Gautrand_Figure2.jpg\" target=\"_blank\">Citroën Showroom, 2007</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          5.377223,	
+          43.2975	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Inês</b>",	
+        "SURNAME": "<b>Lobo</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1966",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/2008_Lobo_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/2008_Lobo_Figure1.jpg\" target=\"_blank\">Inês Lobo </a>",	
+        "WORKS_NA_2": "<b>Francisco Rodrigues Lobo High School</b>, 2008",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/2008_Lobo_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/2008_Lobo_Figure2.jpg\" target=\"_blank\">>Francisco Rodrigues Lobo High School, 2008</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          -9.145623469138336,	
+          38.724591124087411	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Sheila</b>",	
+        "SURNAME": "<b>O’Donnell</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1953",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/2009_ODonnell_Figure2_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/2009_ODonnell_Figure2.jpg\" target=\"_blank\">Sheila O’Donnell</a>",	
+        "WORKS_NA_2": "<b>Lyric Theatre</b>, 2009",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/2009_O'Donnell_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/2009_O'Donnell_Figure1.jpg\" target=\"_blank\">Lyric Theatre, 2009</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          -6.250885468798978,	
+          53.335137783139793	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Christine</b>",	
+        "SURNAME": "<b>Conix</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1955",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/2010_Conix_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/2010_Conix_Figure1.jpg\" target=\"_blank\">Christine Conix </a>",	
+        "WORKS_NA_2": "<b>Belgian EU Pavilon</b>, 2010",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/2010_Conix_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/2010_Conix_Figure2.jpg\" target=\"_blank\">Belgian EU Pavilon, 2010</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          4.566667,	
+          51.116667	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Eva</b>",	
+        "SURNAME": "<b>Jiricná</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1939",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/2011_Jiricna_Fig1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/2011_Jiricna_Fig1.jpg\" target=\"_blank\">Eva Jiricná </a>",	
+        "WORKS_NA_2": "<b>Zlín Culture and Congress Centre</b>,2001",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/2011_Jiricna_Fig.2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/2011_Jiricna_Fig.2.jpg\" target=\"_blank\">Zln Culture and Congress Centre, 2001</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          17.666667,	
+          49.233333	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Liana</b>",	
+        "SURNAME": "<b>Nella</b>",	
+        "MARRIEDN": "Potiropoulou",	
+        "YEAR_B": "1959",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/2012_Potiropoulou_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/2012_Potiropoulou_Figure1.jpg\" target=\"_blank\">Liana Nella-Potiropoulou</a>",	
+        "WORKS_NA_2": "<b>Kindergarten of the German School of Athens</b>, 2012",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/2012_Potiropoulou_Figure3_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/2012_Potiropoulou_Figure3.jpg\" target=\"_blank\">Kindergarten of the German School of Athens, 2012</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          23.716667,	
+          37.966667	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Kostantia</b>",	
+        "SURNAME": "<b>Manthou</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1983",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/2013_Manthou_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/2013_Manthou_Figure1.jpg\" target=\"_blank\">Kostantia Manthou </a>",	
+        "WORKS_NA_2": "<b>Royal Ceramica Pavilion</b>, 2013",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/2013_Manthou_Figure3_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/2013_Manthou_Figure3.jpg\" target=\"_blank\">Royal Ceramica Pavilion, 2013</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          22.9,	
+          40.65	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Helga</b>",	
+        "SURNAME": "<b>Snel</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1966",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/2014_Snel_Figure3_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/2014_Snel_Figure3.jpg\" target=\"_blank\">Helga (M.M.) Snel </a>",	
+        "WORKS_NA_2": "<b>Care and Well-being Centre Tamarix</b>, 2014",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/2014_Dekkers_Snel_Figure1a_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/2014_Dekkers_Snel_Figure1a.jpg\" target=\"_blank\">Care and well being centre ‘Tamarix’, 2014</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          4.8,	
+          52.466667	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Jeanne</b>",	
+        "SURNAME": "<b>Dekkers</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1953",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/2014_Dekkers_Figure3_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/2014_Dekkers_Figure3.jpg\" target=\"_blank\">Jeanne (J.P.Th) Dekkers </a>",	
+        "WORKS_NA_2": "<b>Care and Well-being Centre Tamarix</b>, 2014",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/2014_Dekkers_Snel_Figure1a_small.JPG\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/2014_Dekkers_Snel_Figure1a.jpg\" target=\"_blank\">Care and Well-being Centre Tamarix, 2014</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          6.1711,	
+          51.368611	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Ilse</b>",	
+        "SURNAME": "<b>Crawford</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1962",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/2015_Crawford_Figure3_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/2015_Crawford_Figure3.jpg\" target=\"_blank\">Ilse Crawford </a>",	
+        "WORKS_NA_2": "<b>Sinnerlig Collection</b>, 2015",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/2015_Crawford_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/2015_Crawford_Figure1.jpg\" target=\"_blank\">Sinnerlig Collection, 2015</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          -0.1275,	
+          51.507222	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Carme</b>",	
+        "SURNAME": "<b>Pinós</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1954",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/2017_Pinos_Figure2_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/2017_Pinos_Figure2.jpg\" target=\"_blank\">Carme Pinós </a>",	
+        "WORKS_NA_2": "<b>Gardunya Square Project</b>, 2017",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/2017_Pinos_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/2017_Pinos_Figure1.jpg\" target=\"_blank\">Plaza de la Gardunya Project, 2017</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          2.166667,	
+          41.383333	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Maria Cornelia (Marie)</b>",	
+        "SURNAME": "<b>Kuyken</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1898",	
+        "YEAR_D": "1988",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/MoMoWo_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/MoMoWo.jpg\" target=\"_blank\">Marie (Maria Cornelia) Kuyken </a>",	
+        "WORKS_NA_2": "<b>Fire Screen</b>, 1921",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1921_Kuyken_Figure1a_small.jpg\">Fire Screen</a>",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1921_Kuyken_Figure1a.jpg\" target=\"_blank\">Fire Screen, 1921</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          4.63063933944051,	
+          52.380421459827261	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Blaženka</b>",	
+        "SURNAME": "<b>Staroveški</b>",	
+        "MARRIEDN": "Kucinac",	
+        "YEAR_B": "1937",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1972_Kucinac_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1972_Kucinac_Figure1.jpg\" target=\"_blank\">Blaženka Staroveški Kucinac</a>",	
+        "WORKS_NA_2": "<b>Pipi Children’s Bedroom Furniture</b>, 1972",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1972_Kucinac_Figure3_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1972_Kucinac_Figure3.jpg\" target=\"_blank\">Pipi Children’s Bedroom Furniture, 1972</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          15.639722,	
+          46.2375	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Victoria</b>",	
+        "SURNAME": "<b>Angelova</b>",	
+        "MARRIEDN": "Vinarova",	
+        "YEAR_B": "1902",	
+        "YEAR_D": "1947",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1938_Angelova_Vinarova_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1938_Angelova_Vinarova.jpg\" target=\"_blank\">Victoria Angelova Vinarova</a>",	
+        "WORKS_NA_2": "<b>Burgas Casino</b>, 1938",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1938_ Angelova_Figure 2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1938_ Angelova_Figure 2.jpg\" target=\"_blank\">Burgas Casinò, 1938</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          25.624913197791571,	
+          43.079741006082102	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Lucie Quirina</b>",	
+        "SURNAME": "<b>Bakker</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1915",	
+        "YEAR_D": "2003",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1977_Bakker_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1977_Bakker_Figure1.jpg\" target=\"_blank\">Lucie Quirina Bakker</a>",	
+        "WORKS_NA_2": "<b>Quirina Tableware</b>, 1977",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1977_Bakker_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1977_Bakker_Figure2.jpg\" target=\"_blank\">Quirina Tableware, 1977 </a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          12.560243735412232,	
+          55.679188854798269	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Hanne</b>",	
+        "SURNAME": "<b>Dam</b>",	
+        "MARRIEDN": "Kjaerholm",	
+        "YEAR_B": "1930",	
+        "YEAR_D": "2009",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1987_Kjaerholm_Figure2_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1987_Kjaerholm_Figure2.jpg\" target=\"_blank\">Hanne Dam Kjaerholm</a>",	
+        "WORKS_NA_2": "<b>Summerhouse</b>, 1987",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1987_Kjaerholm_Figure1_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1987_Kjaerholm_Figure1.jpg\" target=\"_blank\">Summerhouse, 1987</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          4.477335485043843,	
+          51.92253391375646	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Francine</b>",	
+        "SURNAME": "<b>Houben</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1955",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/1991_Houben_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/1991_Houben_Figure1.jpg\" target=\"_blank\">Francine Houben</a>",	
+        "WORKS_NA_2": "<b>House with a Studio</b>, 1991",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/1991_Houben_Figure3_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/1991_Houben_Figure3.jpg\" target=\"_blank\">House with a Studio,1991</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          9.985073364902203,	
+          57.458122505337968	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Catarina</b>",	
+        "SURNAME": "<b>Raposo</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1974",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/2003_Raposo_Figure1_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/2003_Raposo_Figure1.jpg\" target=\"_blank\">Catarina Raposo</a>",	
+        "WORKS_NA_2": "<b>Volcano Pavillion and Water Gardens</b>, 2003",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/2003_Raposo_Figure2_small.jpg\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/2003_Raposo_Figure2.jpg\" target=\"_blank\">Volcano Pavillion and Water Gardens, 2003</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          5.868736823043816,	
+          50.998375121518542	
+        ]	
+      }	
+    },	
+    {	
+      "type": "Feature",	
+      "properties": {	
+        "NAME": "<b>Marlies</b>",	
+        "SURNAME": "<b>van Dullemen</b>",	
+        "MARRIEDN": null,	
+        "YEAR_B": "1959",	
+        "YEAR_D": "---",	
+        "IMG_SRC_D": "<img src=\"http://www.momowo.polito.it/images/small/2016_van_Dullemen_small.jpg\">",	
+        "IMAGE": "<a href=\"http://www.momowo.polito.it/images/van_Dullemen.jpg\" target=\"_blank\">Marlies van Dullemen</a>",	
+        "WORKS_NA_2": "<b>MAPLe® Nightwatch</b>, 2016",	
+        "WORK_PREC": "<img src=\"http://www.momowo.polito.it/images/small/MoMoWo_small.JPG\">",	
+        "WORKS_IMG1": "<a href=\"http://www.momowo.polito.it/images/MoMoWo.jpg\" target=\"_blank\">MAPLe® Nightwatch, 2016</a>"	
+      },	
+      "geometry": {	
+        "type": "Point",	
+        "coordinates": [	
+          -9.147025295511346,	
+          38.723411592671816	
+        ]	
+      }	
+    }	
+  ]	
+}
